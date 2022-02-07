@@ -32,3 +32,4 @@ C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\n
 C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.RazorTargetAssemblyInfo.cs
 C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.Views.pdb
 C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.csproj.CopyComplete
+C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\Razor\Pages\RISPOSTA.cshtml.g.cs
