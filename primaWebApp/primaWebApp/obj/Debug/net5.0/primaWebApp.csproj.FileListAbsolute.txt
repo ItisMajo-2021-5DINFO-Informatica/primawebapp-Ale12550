@@ -21,3 +21,14 @@ C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\n
 C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\ref\primaWebApp.dll
 C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.pdb
 C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.genruntimeconfig.cache
+C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\bin\Debug\net5.0\primaWebApp.Views.dll
+C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\bin\Debug\net5.0\primaWebApp.Views.pdb
+C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.RazorAssemblyInfo.cache
+C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.RazorAssemblyInfo.cs
+C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.TagHelpers.input.cache
+C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.TagHelpers.output.cache
+C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.RazorCoreGenerate.cache
+C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.Views.pdb
+C:\Users\Utente\Desktop\primawebapp-Ale12550\primaWebApp\primaWebApp\obj\Debug\net5.0\primaWebApp.csproj.CopyComplete
