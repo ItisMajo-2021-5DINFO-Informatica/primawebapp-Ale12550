@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "2yp26WntFzoVW/aM9HjJ5T976LJ5qUN2F+4C1/LJ3TEpMNJeD96r/rHLHCJ03U/2rtB8EULWSpvTk7UY1fwj2A==",
+  "dgSpecHash": "tNuI/0D2y0xPGPVsOGgUSZZvc/gAAbiQlvnEKapzOdCla1E6f39mne+1ayytun7RH6VRtbvECgPu/sfZwnxrTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utente\\Desktop\\primawebapp-Ale12550\\primaWebApp\\primaWebApp\\primaWebApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\antho_3ed8v7y\\OneDrive\\Desktop\\primawebapp-Ale12550\\primaWebApp\\primaWebApp\\primaWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho_3ed8v7y\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\antho_3ed8v7y\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\antho_3ed8v7y\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\antho_3ed8v7y\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\antho_3ed8v7y\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\antho_3ed8v7y\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\antho_3ed8v7y\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\antho_3ed8v7y\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\antho_3ed8v7y\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

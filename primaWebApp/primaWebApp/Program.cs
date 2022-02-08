@@ -22,5 +22,6 @@ namespace primaWebApp
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
     }
 }
